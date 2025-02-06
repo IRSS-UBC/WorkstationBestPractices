@@ -50,14 +50,14 @@ RAM provides **temporary storage** for running programs. The more RAM available,
 - Avoid having your cloud storage (OneDrive, Sync) save to your C:\ drive.
 
 ### Use a Dedicated Storage Drive
-- Save research data and models on a **separate partition** (e.g., **D:\ or E:\ drive**).
+- Save research data on a **separate partition** (e.g., **D:\ or E:\ drive**).
 - This prevents data loss in case of system failure or OS reinstallation.
 
 ### Cloud Storage and Backups
 - Always **back up** important files to a **cloud service** (e.g., OneDrive, Sync).
 - Store **local backups** on an external drive separate from your working system.
 - Maintain a **consistent backup schedule** to prevent data loss.
-- IRSS provides a **network share** for backing up and sharing data (more details below).
+- The IRSS also has a **network share** for backing up and sharing data (more details below).
 
 ---
 
@@ -82,7 +82,7 @@ RAM provides **temporary storage** for running programs. The more RAM available,
 ---
 
 ## Network Shares
-IRSS provides access to **network shares** (**ByUser** and **ByProject**) for data backup and sharing. However, note the following:
+The IRSS has access to **network shares** (**ByUser** and **ByProject**) for data backup and sharing. However, please note the following:
 - These shares are **not secure**, meaning anyone in the lab can access stored data.
 - **Do not store personal or sensitive information** (e.g., passport numbers, student information).
 - These shares are meant for **storage, not active processing**. Copy data to a local machine before performing any computations.
