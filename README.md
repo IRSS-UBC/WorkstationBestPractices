@@ -47,6 +47,7 @@ RAM provides **temporary storage** for running programs. The more RAM available,
 ### Avoid Saving Files on the C: Drive
 - The **C:\ drive** is primarily for the **Windows operating system and essential software**.
 - Storing large files here can lead to **slow performance and system instability**.
+- Avoid having your cloud storage (OneDrive, Sync) save to your C:\ drive.
 
 ### Use a Dedicated Storage Drive
 - Save research data and models on a **separate partition** (e.g., **D:\ or E:\ drive**).
